@@ -84,7 +84,6 @@
     var solarizedTheme = function() {
       document.getElementById('theme').setAttribute('href','css/theme/solarized.css');
     }
-
     
     var goTo = function(tag) {
       //window.location.href = ''+tag;
@@ -128,7 +127,6 @@
       'Pink' : solarizedTheme,
       'next': next,
       'back': back,
-      'close presentation': close,
     };
 
     // OPTIONAL: activate debug mode for detailed logging in the console

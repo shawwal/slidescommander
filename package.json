@@ -11,13 +11,13 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Muhammad Syawaludin",
+    "email": "syawalhastaf@gmail.com",
+    "web": "http://shawwals.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git@github.com:shawwal/slidescommander.git"
   },
   "engines": {
     "node": ">=4.0.0"
